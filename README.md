@@ -13,9 +13,9 @@
 I build AI products, automation systems, and occasionally emotional attachments to unfinished side projects.
 
 ## 🚀 Most of my work sits somewhere between:
-🧠 autonomous agents,
-📊 messy real-world data,
-🌐 and “this probably should not work… but somehow does.”
+- autonomous agents
+- messy real-world data
+- and “this probably should not work… but somehow does.”
 
 ## 🛠️ Tech Stack
 `TypeScript` • `Python` • `Rust (wannabe)` • `React` • `Next.js` • `Node` • `PostgreSQL` • `LangChain` • `Vercel` • `AWS`
